@@ -14,7 +14,8 @@
 
 <br>
 
-<p align="center">
+<p align="left">
+  <img src="https://github.com/MOHAMED1KHEIR/MOHAMED1KHEIR/blob/main/coder.gif?raw=true" alt="Developer at desk" width="375" height="250" align="right"/>
   Hello, I'm a 4th-year Information Systems Engineering student and a Software Developer from Syria.
   <br><br>
   🔬 I’m currently pursuing a Bachelor’s degree in Information Systems Engineering at Sakarya University  
@@ -24,12 +25,8 @@
   📚 I'm always learning programming and trying to build back-end systems using ASP.NET Core  
   <br>
   📫 You can reach me via email: <a href="mailto:mohammad111222shsh@gmail.com">mohammad111222shsh@gmail.com</a>
-  <img src="https://github.com/MOHAMED1KHEIR/MOHAMED1KHEIR/blob/main/coder.gif?raw=true" alt="Developer at desk" width="375" height="250" align="right"/>
-
 </p>
-<br>
-  <img src="https://github.com/MOHAMED1KHEIR/MOHAMED1KHEIR/blob/main/coder.gif?raw=true" alt="Developer at desk" width="375" height="250" align="right"/>
-  <br>
+
 ---
 
 <h2 align="center">🛠️ Languages, Frameworks & Tools 🛠️</h2>
@@ -45,9 +42,13 @@
   <code><img title="MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
   <code><img title=".NET Core" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></code>
   <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+</p>
 
-<h2 align="center">⚡  Stats ⚡</h2>
+---
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mohamedkheir&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
@@ -60,5 +61,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedkheir&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
-
