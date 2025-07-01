@@ -27,7 +27,9 @@
   <img src="https://github.com/MOHAMED1KHEIR/MOHAMED1KHEIR/blob/main/coder.gif?raw=true" alt="Developer at desk" width="375" height="250" align="right"/>
 
 </p>
-
+<br>
+  <img src="https://github.com/MOHAMED1KHEIR/MOHAMED1KHEIR/blob/main/coder.gif?raw=true" alt="Developer at desk" width="375" height="250" align="right"/>
+  <br>
 ---
 
 <h2 align="center">🛠️ Languages, Frameworks & Tools 🛠️</h2>
