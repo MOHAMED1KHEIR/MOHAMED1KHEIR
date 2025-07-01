@@ -9,6 +9,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/mohamed-kheir-klaido-8a04b9242/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
   <code><a href="https://stackoverflow.com/users/30941906/mohamed-kheir" title="Stack Overflow Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg"> Stack Overflow</a></code>
+  <code><a href="https://x.com/MOHAMED1KHEIR" title="X Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png"> X (Twitter)</a></code>
 </h5>
 
 <br>
