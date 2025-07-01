@@ -48,23 +48,18 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align="center">
-<!--   <div align="center">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-      <img  src="https://streak-stats.demolab.com/?user=mohamedkheir&theme=react&border=61dafb&hide_border=true" alt="Streak Stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img  src="https://github-readme-stats.vercel.app/api?username=mohamedkheir&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div> -->
-  <br><br><br><br><br><br><br><br><br>
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkheir&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mohamedkheir&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkheir&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+</p>
 
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedkheir&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+readme-activity-graph.vercel.app/graph?username=mohamedkheir&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 
