@@ -25,7 +25,11 @@
   <br>
   📫 You can reach me via email: <a href="mailto:mohammad111222shsh@gmail.com">mohammad111222shsh@gmail.com</a>
 </p>
-
+<h3 align="left">✨ Random Dev Quote::</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+<hr>
 ---
 
 <h2 align="center">🛠️ Languages, Frameworks & Tools 🛠️</h2>
