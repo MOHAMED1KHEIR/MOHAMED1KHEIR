@@ -14,8 +14,7 @@
 
 <br>
 
-<p align="left">
-  <img src="https://github.com/MOHAMED1KHEIR/MOHAMED1KHEIR/blob/main/coder.gif?raw=true" alt="Developer at desk" width="375" height="250" align="right"/>
+<p align="center">
   Hello, I'm a 4th-year Information Systems Engineering student and a Software Developer from Syria.
   <br><br>
   🔬 I’m currently pursuing a Bachelor’s degree in Information Systems Engineering at Sakarya University  
@@ -27,13 +26,14 @@
   📫 You can reach me via email: <a href="mailto:mohammad111222shsh@gmail.com">mohammad111222shsh@gmail.com</a>
 </p>
 
+<br>
 
-
-
-
+<p align="center">
+  <img src="https://github.com/MOHAMED1KHEIR/MOHAMED1KHEIR/blob/main/coder.gif?raw=true" alt="Developer at desk" width="375" height="250" />
+</p>
 
 ---
-<br><br><br><br><br>
+
 <h2 align="center">🛠️ Languages, Frameworks & Tools 🛠️</h2>
 
 <p align="center">
