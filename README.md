@@ -24,12 +24,10 @@
   📚 I'm always learning programming and trying to build back-end systems using ASP.NET Core  
   <br>
   📫 You can reach me via email: <a href="mailto:mohammad111222shsh@gmail.com">mohammad111222shsh@gmail.com</a>
+  <img src="https://github.com/MOHAMED1KHEIR/MOHAMED1KHEIR/blob/main/coder.gif?raw=true" alt="Developer at desk" width="375" height="250" align="right"/>
+
 </p>
-<h3 align="left">✨ Random Dev Quote::</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-<hr>
+
 ---
 
 <h2 align="center">🛠️ Languages, Frameworks & Tools 🛠️</h2>
